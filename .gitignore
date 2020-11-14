@@ -1,0 +1,21 @@
+# Maven
+target
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Misc
+*.log
+
+# pass
+src/main/resources/app.properties
+src/test/resources/app.properties
+
+#git
+.git
