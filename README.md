@@ -1,1 +1,1 @@
-# lesson-pv-junit
+# lesson-pv-jUnit
